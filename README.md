@@ -33,3 +33,11 @@ Projects from the [CodePath Android Cliffnotes](https://github.com/codepath/andr
 
 - **[android-networking-sample-app](https://github.com/codepath/android-networking-sample-app)**
 Working sample code for a simple app demonstrating core networking in Android.
+
+## People
+
+### Nick Butcher
+
+- **[Plaid](https://github.com/nickbutcher/plaid)** 
+An Android app which provides design news & inspiration as well as being an example of implementing material design.
+([Google Play](https://play.google.com/store/apps/details?id=io.plaidapp&ah=ZrcFudNw2_tNQJgtSd4aUJbcLpY))
