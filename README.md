@@ -26,3 +26,10 @@ A collection of samples to discuss and showcase different architectural tools an
 
 - **[Sunshine](https://github.com/udacity/Sunshine-Version-2)** 
 Sunshine is the companion Android app for the Udacity course [Developing Android Apps: Android Fundamentals](https://www.udacity.com/course/ud853).
+
+## CodePath
+
+Projects from the [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki).
+
+- **[android-networking-sample-app](https://github.com/codepath/android-networking-sample-app)**
+Working sample code for a simple app demonstrating core networking in Android.
