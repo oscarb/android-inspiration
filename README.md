@@ -49,3 +49,7 @@ An Android app which provides design news & inspiration as well as being an exam
 - **[android-examples](https://github.com/nisrulz/android-examples)** 
 Simple basic isolated apps, for budding android devs.
 
+## Other
+
+- **[Archi](https://github.com/ivacf/archi)**
+Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.
