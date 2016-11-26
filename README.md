@@ -64,4 +64,4 @@ This is starter template for writing Android apps using Clean architecture
 Example android Model View View Model and DataBinding used to explain how to use this pattern in our android applications 
 
 - **[avenging: MVP - Android no Dagger or RxJava example](https://github.com/JoaquimLey/avenging)**
-Android app built with an MVP approach without RxJava or Dagger. [Blog](https://android.jlelse.eu/avenging-android-mvp-23461aebe9b5#.c0409rvgl)
+Android app built with an MVP approach without RxJava or Dagger. ([Blog post](https://android.jlelse.eu/avenging-android-mvp-23461aebe9b5#.c0409rvgl)) ([Google Play](https://play.google.com/store/apps/details?id=com.joaquimley.avenging))
