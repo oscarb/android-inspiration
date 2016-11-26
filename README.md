@@ -61,4 +61,4 @@ This is a sample app that is part of a series of blog posts I have written about
 This is starter template for writing Android apps using Clean architecture
 
 - **[People-MVVM](https://github.com/erikcaffrey/People-MVVM)**
-Example android Model View View Model and DataBinding used to explain how to use this pattern in our android applications]
+Example android Model View View Model and DataBinding used to explain how to use this pattern in our android applications 
