@@ -56,3 +56,6 @@ Repository that showcases 3 Android app architectures: "Standard Android", MVP a
 
 - **[Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)**
 This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
+
+- **[Android-Clean-Boilerplate](https://github.com/dmilicic/Android-Clean-Boilerplate)**
+This is starter template for writing Android apps using Clean architecture
