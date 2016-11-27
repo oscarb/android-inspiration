@@ -54,14 +54,23 @@ Simple basic isolated apps, for budding android devs.
 - **[Archi](https://github.com/ivacf/archi)**
 Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.
 
+### Clean Architecture
 - **[Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)**
 This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 
 - **[Android-Clean-Boilerplate](https://github.com/dmilicic/Android-Clean-Boilerplate)**
-This is starter template for writing Android apps using Clean architecture
+This is starter template for writing Android apps using Clean architecture.
 
+
+### MVVM
 - **[People-MVVM](https://github.com/erikcaffrey/People-MVVM)**
 Example android Model View View Model and DataBinding used to explain how to use this pattern in our android applications 
 
 - **[avenging: MVP - Android no Dagger or RxJava example](https://github.com/JoaquimLey/avenging)**
 Android app built with an MVP approach without RxJava or Dagger. ([Blog post](https://android.jlelse.eu/avenging-android-mvp-23461aebe9b5#.c0409rvgl)) ([Google Play](https://play.google.com/store/apps/details?id=com.joaquimley.avenging))
+
+- **[MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)**
+Android MVVM experiment project using the official Data Binding library. ([Blog post](https://labs.ribot.co.uk/approaching-android-with-mvvm-8ceec02d5442#.1lo0jmlkx))
+
+- **[mvvm-reddit](https://github.com/Codevate/mvvm-reddit))**
+Example of MVVM architecture on Android, using RxJava. ([Blog post](https://www.codevate.com/blog/13-better-android-software-development-mvvm-with-rxjava))
