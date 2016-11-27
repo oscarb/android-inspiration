@@ -72,5 +72,5 @@ Android app built with an MVP approach without RxJava or Dagger. ([Blog post](ht
 - **[MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)**
 Android MVVM experiment project using the official Data Binding library. ([Blog post](https://labs.ribot.co.uk/approaching-android-with-mvvm-8ceec02d5442#.1lo0jmlkx))
 
-- **[mvvm-reddit](https://github.com/Codevate/mvvm-reddit))**
+- **[mvvm-reddit](https://github.com/Codevate/mvvm-reddit)**
 Example of MVVM architecture on Android, using RxJava. ([Blog post](https://www.codevate.com/blog/13-better-android-software-development-mvvm-with-rxjava))
