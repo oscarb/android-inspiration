@@ -74,3 +74,6 @@ Android MVVM experiment project using the official Data Binding library. ([Blog 
 
 - **[mvvm-reddit](https://github.com/Codevate/mvvm-reddit)**
 Example of MVVM architecture on Android, using RxJava. ([Blog post](https://www.codevate.com/blog/13-better-android-software-development-mvvm-with-rxjava))
+
+- **[AndroidMvvm at prelude](https://github.com/hiBrianLee/AndroidMvvm/tree/prelude)**
+A testable Android MVVM app. ([Blog post](https://medium.com/@hiBrianLee/writing-testable-android-mvvm-app-prelude-e49f7e6223#.omg7aeods))
