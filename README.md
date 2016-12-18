@@ -34,6 +34,11 @@ Projects from the [CodePath Android Cliffnotes](https://github.com/codepath/andr
 - **[android-networking-sample-app](https://github.com/codepath/android-networking-sample-app)**
 Working sample code for a simple app demonstrating core networking in Android.
 
+## Kickstarter
+
+- **[kickstarter/android-oss](https://github.com/kickstarter/android-oss)**
+Kickstarter for Android. Bring new ideas to life, anywhere. ([Website](https://www.kickstarter.com/mobile))
+
 ## People
 
 ### Nick Butcher
