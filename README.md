@@ -39,6 +39,10 @@ Working sample code for a simple app demonstrating core networking in Android.
 - **[kickstarter/android-oss](https://github.com/kickstarter/android-oss)**
 Kickstarter for Android. Bring new ideas to life, anywhere. ([Website](https://www.kickstarter.com/mobile))
 
+## Novoda 
+- **[novoda/bonfire-firebase-sample](https://github.com/novoda/bonfire-firebase-sample/)**
+An app to discuss your favourite emojis. This is a sample app built with Firebase. ([Google Play](https://play.google.com/store/apps/details?id=com.novoda.bonfire))
+
 ## People
 
 ### Nick Butcher
