@@ -27,6 +27,10 @@ A collection of samples to discuss and showcase different architectural tools an
 - **[Sunshine](https://github.com/udacity/Sunshine-Version-2)** 
 Sunshine is the companion Android app for the Udacity course [Developing Android Apps: Android Fundamentals](https://www.udacity.com/course/ud853).
 
+- **[Advanced Sunshine](https://github.com/udacity/Advanced_Android_Development)**
+Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity [Advanced Android course](https://www.udacity.com/course/advanced-android-app-development--ud855).
+
+
 ## CodePath
 
 Projects from the [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki).
