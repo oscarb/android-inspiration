@@ -67,6 +67,9 @@ Simple basic isolated apps, for budding android devs.
 - **[Archi](https://github.com/ivacf/archi)**
 Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.
 
+- **[Fragments: The Solution To (And Cause of) All Of Android's Problems](https://github.com/myotive/blog-fragments-2017/)**
+Blog post regarding android fragments in 2017. Sample includes fragment-less architecture ([Blog post](https://news.realm.io/news/michael-yotive-state-of-fragments-2017/?utm_source=Android+Weekly&utm_campaign=9411db07ba-android-weekly-254&utm_medium=email&utm_term=0_4eb677ad19-9411db07ba-338005577))
+
 ### Clean Architecture
 - **[Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)**
 This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
