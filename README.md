@@ -4,7 +4,7 @@ Collection of repositories with high quality source code for Android apps to be 
 
 ## Google
 
-- **[The Google I/O 2015 Android App](https://github.com/google/iosched)** 
+- **[The Google I/O 2017 Android App](https://github.com/google/iosched)** 
 Considered by many to offer best practices and the latest Android has to offer. 
 ([Google Play](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched))
 
