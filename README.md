@@ -8,6 +8,9 @@ Collection of repositories with high quality source code for Android apps to be 
 Considered by many to offer best practices and the latest Android has to offer. 
 ([Google Play](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched))
 
+- **[Android Sunflower (alpha)](https://github.com/googlesamples/android-sunflower)** 
+A gardening app illustrating Android development best practices with Android Jetpack.
+
 ### Codelabs
 
 Repositories related to [Google Codelabs](https://codelabs.developers.google.com/)
