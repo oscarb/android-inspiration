@@ -80,6 +80,9 @@ This is a sample app that is part of a series of blog posts I have written about
 - **[Android-Clean-Boilerplate](https://github.com/dmilicic/Android-Clean-Boilerplate)**
 This is starter template for writing Android apps using Clean architecture.
 
+- **[mrsegev/MovieNight](https://github.com/mrsegev/MovieNight)**
+MovieNight is a sample Android application that uses the clean architecture approach and is written in Kotlin.
+
 
 ### MVVM
 - **[People-MVVM](https://github.com/erikcaffrey/People-MVVM)**
